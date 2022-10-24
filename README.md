@@ -1,2 +1,0 @@
-# redisConfigurationDemo
-redisConfigurationDemo
