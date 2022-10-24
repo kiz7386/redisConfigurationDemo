@@ -15,7 +15,7 @@
     <description>redisConfigurationDemo</description>
     <properties>
         <springBootVersion>2.1.4.RELEASE</springBootVersion>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
         <repackage.classifier/>
         <spring-native.version>0.12.1</spring-native.version>
     </properties>
